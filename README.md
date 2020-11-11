@@ -25,7 +25,7 @@ I made unity-2048 for unity engine beginner!
 I wrapping pci-leech.
 
 ## Detective Game
-**sorry, this project is private**
+**currently private.**
 
 ## Balance Ball
 Simple Mobile Idea Game.  

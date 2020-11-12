@@ -20,9 +20,13 @@ https://www.youtube.com/watch?v=GInVH2FUfr8&ab_channel=HamsterCheeseAllergy
 https://github.com/shlifedev/2048-Unity  
 I made unity-2048 for unity engine beginner!
 
+## Hyper'Bye'sor.
+https://github.com/shlifedev/SmartHamsterOfLegends
+hypervisor based league of legends 10v cheat. 
+
 ## PCI-Leech c# wrapper
 **currently not public.**
-I wrapping pci-leech.
+I wrapping pci-leech. 
 
 ## Detective Game
 **currently private.**

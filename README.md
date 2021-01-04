@@ -1,2 +1,1 @@
-<img src="https://i.imgur.com/sqpenxb.jpg" width=200 height=200>
-miyao!
+<img src="https://i.imgur.com/sqpenxb.jpg" width=200 height=200> zero is black!

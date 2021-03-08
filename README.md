@@ -3,5 +3,5 @@
  
  `t-story blog` : https://shlifedev.tistory.com/  
  
- `youtube` : https://www.youtube.com/
+ `youtube` : https://www.youtube.com/channel/UCm1oY9SLzVgVPCvMcqcDUdg
  

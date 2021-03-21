@@ -1,7 +1,7 @@
 ## shlifedev
  Hello. I'm Cheese Allery Hamster :)
  
- `youtube` : https://www.youtube.com/channel/UCm1oY9SLzVgVPCvMcqcDUdg
+ `youtube` : https://www.youtube.com/channel/UCm1oY9SLzVgVPCvMcqcDUdg  
  `blog` : https://shlifedev.tistory.com/  
  
  

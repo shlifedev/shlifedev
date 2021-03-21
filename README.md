@@ -8,7 +8,7 @@
 
 ## What am I studying now?
 
- `Node.js React(Frontend)` `Node.js Express(Backend)` `Javascript ES6` `BootStrap`
+ `Node.js React(Frontend)` `Node.js Express(Backend)` `Javascript ES6` `BootStrap` `AWS` `Docker`
  
  
 ## Next Plan

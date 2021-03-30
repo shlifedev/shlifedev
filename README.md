@@ -5,11 +5,6 @@
  `blog` : [Here](https://shlifedev.tistory.com/)
  
  
-
-## What am I studying now?
-
- `Node.js React(Frontend)` `Node.js Express(Backend)` `Javascript ES6` `BootStrap` `AWS` `Docker`
- 
- 
 ## Next Plan
- UGS document english translate 
+ - UGS document english translate 
+ - 

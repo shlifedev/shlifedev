@@ -2,9 +2,9 @@
  
 Hello. I'm Cheese Allery Hamster(shlifedev)
 
- I'm GameDevelopr & Web Frontend Developer, Recently started react study 🤔, And my hobby is **[blog](https://shlifedev.tistory.com/)** posting about application develop, open source libraries, simple game hacking, C# skills, and web frontend skills Even **[YouTube](https://www.youtube.com/channel/UCm1oY9SLzVgVPCvMcqcDUdg)** Develop Video Upload!
+ I'm GameDevelopr & Web Frontend Developer, Recently started react study, My little hobby is posting on my **[Tistory](https://shlifedev.tistory.com/)** about Application Develop, Open Source libraries, Simple Game Hacking Guide, C# Skills, And React. Also I currently running **[YouTube](https://bit.ly/shlifedev-youtube)** Channel for devlog!
  
-  And I Currently selling **[Unity Google Sheets](https://shlifedev.gitbook.io/unitygooglesheet/)** on the Asset Store and Itch.IO 😀  
-  If you have any questions add issue to [open source core-repository](https://github.com/shlifedev/GoogleSheet-Database)
+Also, I Currently selling **[Unity Google Sheets](https://bit.ly/UGS-Document)** on the Asset Store and **[Itch.IO](https://shlifedev.itch.io/unitygooglesheets)** 😀 I am passionate about this project, and I am working on refactoring and adding features.
 
+ # About Me.
  

@@ -1,4 +1,4 @@
-22 # About Me.
+# About Me.
  
 Hello. I'm Cheese Allery Hamster(shlifedev)
 

@@ -6,7 +6,7 @@ My little hobby is posting on my **[Tistory](https://blog.shlife.dev/)** about A
  
  # My Work
   
- I currently selling **[Unity Google Sheets](https://bit.ly/UGS-Document)** on the Asset Store and **[Itch.IO](https://shlifedev.itch.io/unitygooglesheets)** 😀 I recently passionate about this project, and I am working on refactoring and adding features.
+ I currently selling **[Unity Google Sheets](https://ugs.shlife.dev)** on the Asset Store and **[Itch.IO](https://shlifedev.itch.io/unitygooglesheets)** 😀 I recently passionate about this project, and I am working on refactoring and adding features.
 
  
  

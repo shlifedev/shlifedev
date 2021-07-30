@@ -2,7 +2,7 @@
  
 Hello. I'm Cheese Allery Hamster(shlifedev)
 
-My little hobby is posting on my **[Tistory](https://shlifedev.tistory.com/)** about Application Develop, Open Source libraries, Simple Game Hacking Guide, C# Skills, And React. Also I currently running **[YouTube](https://bit.ly/shlifedev-youtube)** Channel for devlog!
+My little hobby is posting on my **[Tistory](https://blog.shlife.dev/)** about Application Develop, Open Source libraries, Simple Game Hacking Guide, C# Skills, And React. Also I currently running **[YouTube](https://youtube.shlife.dev)** Channel for devlog!
  
  # My Work
   

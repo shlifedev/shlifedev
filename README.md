@@ -5,4 +5,5 @@
   
 **[Unity Google Sheets](https://ugs.shlife.dev)** | **[Itch.IO](https://shlifedev.itch.io/unitygooglesheets)**  
 
-If you have any question [email me](shlifedev@gmail.com)
+If you have any question [email me](mailto:shlifedev@gmail.com)
+ 

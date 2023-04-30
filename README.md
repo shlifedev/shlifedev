@@ -6,7 +6,7 @@
 <b><a href=https://youtube.shlife.dev>Youtube</a></b>
 </div> 
  
- ## Interesting Story
+ ## Interesting Story 
  I have two hamsters.  
  <div style="display:flex justify-content:center width:100%">
   <img src=https://user-images.githubusercontent.com/49047211/235334997-bd1947cb-1fd3-42ec-a956-f8dee6e24923.jpg width=200px/>  
@@ -30,3 +30,5 @@ Let's think again. I have a cat.
 -------------------
 # But  
 Even though there are many bugs.. I am just happy with my current life with my pets! 
+
+![image](https://user-images.githubusercontent.com/49047211/235335478-83c32c3c-6066-43e5-bbab-659f0afd09d1.png)

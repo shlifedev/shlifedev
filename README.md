@@ -35,4 +35,11 @@ Let's think again. I have a cat.
 Even though there are many bugs.. I am just happy with my current life with my pets! 
 
 ![image](https://user-images.githubusercontent.com/49047211/235335478-83c32c3c-6066-43e5-bbab-659f0afd09d1.png)
+
+<details>
+<summary>.
+</summary>
+ 
+![image](https://user-images.githubusercontent.com/49047211/235338616-92ce35a2-d546-484d-9fe9-4b3b94eedf8c.png)
+</details>
 </details>

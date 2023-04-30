@@ -29,6 +29,4 @@ Let's think again. I have a cat.
 
 -------------------
 # But  
-Even though there are many bugs.. I am just happy with my current life with my pets!
-So I'll be happy as long as my cat doesn't catch and eat the hamster.
- 
+Even though there are many bugs.. I am just happy with my current life with my pets! 
